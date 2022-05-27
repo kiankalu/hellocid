@@ -12,7 +12,7 @@ public class HellocdApplication {
 
 	@RequestMapping("/")
 	String home() {
-		return "Welcome my friends!";
+		return "Hello  my friends and the rest of the World!";
 	}
 
 	public static void main(String[] args) {
